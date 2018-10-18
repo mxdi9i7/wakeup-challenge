@@ -14,10 +14,10 @@
 
 ## 挑战金支付方式 <a name="money"></a>
 挑战金截止为这周天（10/21 晚8点）
-- 微信转账（人民币）- *￥35.00 发给 peter*
-- Venmo - *$Bencheng-Zheng*
-- Paypal - *443527350@qq.com*
-- Quickpay - *peter.zheng88228@gmail.com*
+- 微信转账（人民币）- *￥35.00 `peterbugman`*
+- Venmo - *$5 `$Bencheng-Zheng`*
+- Paypal - *$5 `443527350@qq.com`*
+- Quickpay - *$5 `peter.zheng88228@gmail.com`*
 
 ## 回笼觉保护措施 <a name="hlj"></a>
 
